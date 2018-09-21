@@ -1,0 +1,16 @@
+
+*
+*/*
+*/*.*
+
+!.gitignore
+
+!*.prj
+!*.pcb
+!/database
+!/database/*.*
+!/database/*
+!/database/*/*.*
+!*.pdf
+!*.zip
+!*.xlsx
